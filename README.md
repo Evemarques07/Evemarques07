@@ -151,16 +151,6 @@ Comandas via WhatsApp com bot automático · Controle de mesas em tempo real · 
 
 ---
 
-## :trophy: Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Evemarques07&theme=onestar&no-bg=true&no-frame=true&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## :chart_with_upwards_trend: Activity Graph
 
 <div align="center">
