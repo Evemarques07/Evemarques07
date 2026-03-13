@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="assets/profile.jpeg" width="180" style="border-radius: 50%;" alt="Everton Marques" />
+
+<br/><br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+JavaScript+%7C+Python;Building+Web%2C+Mobile%2C+Desktop+%26+AI+Solutions;Turning+ideas+into+production+systems;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
